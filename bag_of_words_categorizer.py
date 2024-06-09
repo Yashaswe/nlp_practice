@@ -16,7 +16,7 @@ train_x_vectors = vectorizer.fit_transform(train_x)
 # get data in vector format
 # print(vectors.toarray())
 
-# CLASSIFIER
+# CLASSIFIER 
 
 from sklearn import svm
 
